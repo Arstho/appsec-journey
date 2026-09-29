@@ -1,1 +1,1 @@
-# appsec-journey
+Дневник обучения AppSec. Начал: 29.09.26. Цель: junior AppSec за 6 месяцев.
